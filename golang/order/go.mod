@@ -1,4 +1,4 @@
-module github.com/huseyinbabal/microservices-proto/golang/order
+module github.com/aholake/order-proto/golang/order
 
 go 1.21.4
 
